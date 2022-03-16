@@ -1,4 +1,4 @@
-###👋 Hi, I’m @Kunal-Chaudhari-1404
+###👋 Hi, I’m @Kunal-Chaudhari-1404 
 ###👀 I’m interested in machine learning, robotics and all other cool stuff out there...
 ###🌱 I’m currently learning machine learning, apart from master's in scientific instrumentation
 ###📫 How to reach me : ckunal14@outlook.com
